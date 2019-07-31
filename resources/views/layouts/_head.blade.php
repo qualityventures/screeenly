@@ -97,6 +97,10 @@
     .has-error .checkbox, .has-error.checkbox label, .has-error .control-label, .has-error .help-block {
     color: #ff0500;
     }
+    .btn-primary:focus {
+    background-color: #000000;
+    border-color: #000000;
+    }
     </style>
 
     <script>
