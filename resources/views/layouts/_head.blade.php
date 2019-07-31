@@ -97,6 +97,9 @@
     background-color: #ffffff;
     border-color: #ffffff;
     }
+    .has-error .checkbox, .has-error.checkbox label, .has-error .control-label, .has-error .help-block {
+    color: #ff0500;
+    }
     </style>
 
     <script>
