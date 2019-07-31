@@ -23,7 +23,7 @@
 
                     <div class="form-group">
                         <label>URL of Website</label>
-                        <input type="text" class="form-control" name="url" required placeholder="https://en.wikipedia.org/wiki/Special:Random" value="https://en.wikipedia.org/wiki/Special:Random">
+                        <input type="text" class="form-control" name="url" required placeholder="https://en.wikipedia.org/wiki/Special:Random" value="">
                     </div>
                     <button type="submit" class="btn btn-primary">Take Screenshot</button>
 
