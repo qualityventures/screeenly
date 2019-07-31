@@ -13,6 +13,9 @@
     body {
     background-color: white;
     }
+    .col-sm-4 {
+    width: 100% !important;
+    }
     </style>
 
     <script>
