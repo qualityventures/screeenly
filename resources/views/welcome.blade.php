@@ -4,7 +4,7 @@
 
     <section class="u-background--primary u-white text-center c-hero">
         <div class="container">
-            <h1 class="u-fs--ultra">Screenshots as a Service</h1>
+            <h3 class="u-fs--ultra">Screenshots as a Service</h3>
 
             <p class="lead">Create website screenshots through a simple API. Try it. It's free!</p>
         </div>
@@ -14,7 +14,7 @@
 
         <div class="row">
             <div class="col-sm-4">
-                <h3>Easy as 1, 2, 3</h3>
+                <h1>Easy as 1, 2, 3</h1>
                 <p>
                     Send a request to our API using your API key and a URL and will generate a fresh screenshot.
                 </p>
