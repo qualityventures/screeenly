@@ -13,7 +13,7 @@
 
                 <form method="post" action="/settings">
 
-                    <p>Feel free to change your email address here. We won't bother you with marketing emails. We will only notice you, if something is changing with screeenly.</p>
+                    <p>Feel free to change your email address here.</p>
 
                     {{ csrf_field() }}
 
@@ -45,7 +45,7 @@
                     {{ csrf_field() }}
                     {{ method_field('DELETE') }}
 
-                    <p>You can permanently delete your account here. All Api Keys you currently have will get deleted and can no longer be used to query our API.</p>
+                    <p>You can permanently delete your account here. All API Keys you currently have will get deleted and can no longer be used to query our API.</p>
                     <p><b>There is no second step.</b> Hit the button and your account is gone!</p>
 
                     <button type="submit" class="btn btn-danger">Close Account</button>
