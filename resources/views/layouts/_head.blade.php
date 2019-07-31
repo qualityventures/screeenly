@@ -41,6 +41,9 @@
     .navbar-default .navbar-nav>li>a {
     font-size: 15px;
     }
+    b {
+    color: black;
+    }
     </style>
 
     <script>
