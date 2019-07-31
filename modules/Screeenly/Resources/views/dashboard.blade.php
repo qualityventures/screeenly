@@ -10,12 +10,12 @@
             <div class="panel-heading">Documentation</div>
 
             <div class="panel-body">
-                <p style="text-align:left">Endpoint: http://webshots.app/api/v1/fullsize</p>
-                <p style="text-align:left">key: Your API Key</p>
-                <p style="text-align:left">url: URL of Website</p>
-                <p style="text-align:left">height: Height of Screenshot</p>
-                <p style="text-align:left">width: Width of Screenshot</p>
-                <p style="text-align:left">delay: Delay in seconds before a screenshot (max 10 seconds)</p>
+                Endpoint: http://webshots.app/api/v1/fullsize
+                key: Your API Key
+                url: URL of Website
+                height: Height of Screenshot
+                width: Width of Screenshot
+                delay: Delay in seconds before a screenshot (max 10 seconds)
             </div>
         </div>
 
