@@ -90,6 +90,9 @@
     .navbar-brand>img {
     margin-top: -4px;
     }
+    .navbar-default .navbar-toggle {
+    border-color: white !important;
+    }
     </style>
 
     <script>
