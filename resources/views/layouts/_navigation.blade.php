@@ -11,14 +11,14 @@
             </button>
 
             <a class="navbar-brand" href="{{ url('/') }}">
-                <img alt="Brand" src="/favicon.ico?v1" style="max-width: 20px; display: inline"> screeenly
+                <img alt="Brand" src="/favicon.ico" style="max-width: 20px; display: inline"> webshots
             </a>
         </div>
 
         <div class="collapse navbar-collapse" id="app-navbar-collapse">
             <ul class="nav navbar-nav">
                 <li>
-                    <a href="/try">Take Screenshot</a>
+                    <a href="/try">Take a Screenshot</a>
                 </li>
             </ul>
 
