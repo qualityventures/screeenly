@@ -18,7 +18,26 @@
     }
     .h3, h3 {
     font-size: 40px;
-    } 
+    color: black;
+    text-align: center;
+    }
+    p {
+    color: #777;
+    text-align: center;
+    font-size: 20px;
+    }
+    .u-white {
+    color: #000000;
+    }
+    .u-background--primary {
+    background-color: #ffffff;
+    }
+    .navbar-default {
+    border-color: #cccccc;
+    }
+    .navbar-brand {
+    font-size: 20px;
+    }
     </style>
 
     <script>
