@@ -11,7 +11,7 @@
             </button>
 
             <a class="navbar-brand" href="{{ url('/') }}">
-                <img alt="Brand" src="/favicon.ico" style="max-width: 20px; display: inline"> webshots
+                <img alt="Brand" src="/favicon.ico" style="max-width: 20px; display: inline"> Webshots
             </a>
         </div>
 
