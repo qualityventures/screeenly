@@ -65,7 +65,28 @@
     .btn-link:focus, .btn-link:hover {
     color: #000000;
     }
-    
+    .panel-default {
+    border-color: #cccccc;
+    }
+    .btn-danger {
+    background-color: #ff0000;
+    border-color: #aa4a24;
+    }
+    .btn-danger.active, .btn-danger:active, .btn-danger:hover {
+    background-color: #ff0000;
+    border-color: #aa4a24;
+    }
+    .btn-success.active, .btn-success:active, .btn-success:hover {
+    background-color: #2ab27b;
+    border-color: #259d6d;
+    }
+    a {
+    color: #000000;
+    }
+    .btn-primary.active:focus, .btn-primary.active:hover, .btn-primary:active:focus, .btn-primary:active:hover {
+    background-color: #000000;
+    border-color: #000000;
+    }
     </style>
 
     <script>
