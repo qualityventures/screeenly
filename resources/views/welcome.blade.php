@@ -19,7 +19,7 @@
                     Just send your API key and a URL to our API and we create a fresh screenshot for you.
                 </p>
                 <p>
-                    Screenshots come as a file path or as a base64 encoded string. <b>Keep in mind that screenshots are deleted from our server after 1 hour.</b>
+                    Screenshots come as a file path or as a base64 encoded string. <br>Keep in mind that screenshots are deleted from our server after 1 hour.</br>
                 </p>
             </div>
         </div>
