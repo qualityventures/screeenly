@@ -16,6 +16,9 @@
     .col-sm-4 {
     width: 100% !important;
     }
+    .h3, h3 {
+    font-size: 40px;
+    } 
     </style>
 
     <script>
