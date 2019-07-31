@@ -11,11 +11,11 @@
 
             <div class="panel-body">
                 Endpoint: http://webshots.app/api/v1/fullsize
-                key: Your API Key
-                url: URL of Website
-                height: Height of Screenshot
-                width: Width of Screenshot
-                delay: Delay in seconds before a screenshot (max 10 seconds)
+                <br>key: Your API Key
+                <br>url: URL of Website
+                <br>height: Height of Screenshot
+                <br>width: Width of Screenshot
+                <br>delay: Delay in seconds before a screenshot (max 10 seconds)
             </div>
         </div>
 
