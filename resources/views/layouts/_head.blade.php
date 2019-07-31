@@ -87,6 +87,9 @@
     background-color: #000000;
     border-color: #000000;
     }
+    .navbar-brand>img {
+    margin-top: -4px;
+    }
     </style>
 
     <script>
