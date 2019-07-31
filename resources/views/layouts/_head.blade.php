@@ -8,6 +8,12 @@
 
     <title>@yield('title', 'webshots')</title>
     <link href="{{ mix('css/app.css') }}" rel="stylesheet">
+    
+    <style>
+    body {
+    background-color: white;
+    }
+    </style>
 
     <script>
         window.Laravel = <?php echo json_encode([
