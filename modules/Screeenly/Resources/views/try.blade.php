@@ -6,16 +6,16 @@
 
         @if (Session::has('fatal-error'))
             <div class="alert alert-danger">
-                Something went wrong capturing this website. Is it a Javascript heavy site or loads lots of external content? If you think this is an error contact us.
+                Something went wrong capturing this website. Is it a JavaScript heavy site or loads lots of external content? If you think this is an error please contact us.
             </div>
         @endif
 
         <div class="panel panel-default">
-            <div class="panel-heading">Try screeenly right now!</div>
+            <div class="panel-heading">Try it Now</div>
             <div class="panel-body">
 
-                <p>Just enter a public accessible URL and we will generate a screenshot for you. Depending on the size of the entered page, the rendering can take some seconds.</p>
-                <p><small>Javascript or Ad-Heavy sites might not be able to be captured.</small></p>
+                <p>Enter a URL and will generate a screenshot for you. Depending on the size of the entered website, the rendering can take some seconds.</p>
+                <p><small>JavaScript or Ad-Heavy sites might not be able to be captured.</small></p>
 
                 <form method="post" action="/try">
 
@@ -25,7 +25,7 @@
                         <label>URL of Website</label>
                         <input type="text" class="form-control" name="url" required placeholder="https://en.wikipedia.org/wiki/Special:Random" value="https://en.wikipedia.org/wiki/Special:Random">
                     </div>
-                    <button type="submit" class="btn btn-primary">Create Screenshot</button>
+                    <button type="submit" class="btn btn-primary">Take Screenshot</button>
 
                 </form>
             </div>
