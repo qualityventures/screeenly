@@ -94,10 +94,6 @@
     .navbar-default .navbar-toggle {
     border-color: white !important;
     }
-    .btn-primary:focus {
-    background-color: #ffffff;
-    border-color: #ffffff;
-    }
     .has-error .checkbox, .has-error.checkbox label, .has-error .control-label, .has-error .help-block {
     color: #ff0500;
     }
