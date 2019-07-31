@@ -14,7 +14,7 @@
 
         <div class="row">
             <div class="col-sm-4">
-                <h1>Easy as 1, 2, 3</h1>
+                <h3>Easy as 1, 2, 3</h3>
                 <p>
                     Send a request to our API using your API key and a URL and will generate a fresh screenshot.
                 </p>
