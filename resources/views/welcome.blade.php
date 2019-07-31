@@ -7,10 +7,6 @@
             <h1 class="u-fs--ultra">Screenshot as a Service</h1>
 
             <p class="lead">Create website screenshots through a simple API. Try it. It's free!</p>
-
-            <a href="/oauth/github/redirect" data-turbolinks="false" class="btn btn-black">
-                Sign up with Github
-            </a>
         </div>
     </section>
 
