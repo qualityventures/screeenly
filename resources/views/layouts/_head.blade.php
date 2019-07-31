@@ -44,6 +44,28 @@
     b {
     color: black;
     }
+    .panel-default>.panel-heading {
+    border-color: #cccccc;
+    }
+    .btn-primary {
+    background-color: #000000;
+    border-color: #000000;
+    }
+    .btn-primary.active, .btn-primary:active, .btn-primary:hover {
+    background-color: #000000;
+    border-color: #000000;
+    }
+    .form-control:focus {
+    border-color: black;
+    box-shadow: none !important;
+    }
+    .btn-link {
+    color: #000000;
+    }
+    .btn-link:focus, .btn-link:hover {
+    color: #000000;
+    }
+    
     </style>
 
     <script>
