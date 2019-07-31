@@ -93,6 +93,10 @@
     .navbar-default .navbar-toggle {
     border-color: white !important;
     }
+    .btn-primary:focus {
+    background-color: #ffffff;
+    border-color: #ffffff;
+    }
     </style>
 
     <script>
