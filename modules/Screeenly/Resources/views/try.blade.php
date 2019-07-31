@@ -1,6 +1,6 @@
 @extends('layouts.app')
 
-@section('title', 'Try screeenly')
+@section('title', 'Try It')
 
 @section('content')
 
@@ -11,7 +11,7 @@
         @endif
 
         <div class="panel panel-default">
-            <div class="panel-heading">Try it Now</div>
+            <div class="panel-heading">Try It</div>
             <div class="panel-body">
 
                 <p>Enter a URL and will generate a screenshot for you. Depending on the size of the entered website, the rendering can take some seconds.</p>
