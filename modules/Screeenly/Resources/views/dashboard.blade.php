@@ -10,7 +10,12 @@
             <div class="panel-heading">Documentation</div>
 
             <div class="panel-body">
-                You can find our API documentation in our <a href="https://github.com/stefanzweifel/screeenly/wiki">Github Wiki</a>.
+                <p style="text-align:left">Endpoint: http://webshots.app/api/v1/fullsize</p>
+                <p style="text-align:left">key: Your API Key</p>
+                <p style="text-align:left">url: URL of Website</p>
+                <p style="text-align:left">height: Height of Screenshot</p>
+                <p style="text-align:left">width: Width of Screenshot</p>
+                <p style="text-align:left">delay: Delay in seconds before a screenshot (max 10 seconds)</p>
             </div>
         </div>
 
