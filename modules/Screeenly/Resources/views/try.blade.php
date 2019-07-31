@@ -15,7 +15,7 @@
             <div class="panel-body">
 
                 <p style="text-align: left;">Enter a URL and will generate a screenshot for you. Depending on the size of the entered website, the rendering can take some seconds.</p>
-                <p style="text-align: left;><small>JavaScript or Ad-Heavy sites might not be able to be captured.</small></p>
+                <p style="text-align: left;"><small>JavaScript or Ad-Heavy sites might not be able to be captured.</small></p>
 
                 <form method="post" action="/try">
 
