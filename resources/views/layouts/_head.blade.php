@@ -12,6 +12,7 @@
     <style>
     body {
     background-color: white;
+    color: #000000;
     }
     .col-sm-4 {
     width: 100% !important;
