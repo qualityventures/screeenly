@@ -16,6 +16,7 @@
                 <br><b>height:</b> Height of Screenshot
                 <br><b>width:</b> Width of Screenshot
                 <br><b>delay:</b> Delay in seconds before a screenshot (max 10 seconds)
+                <br></br>
                 <br><b><a href="https://jsfiddle.net/Lw5u109o/">API Example</a></b></br>
             </div>
         </div>
