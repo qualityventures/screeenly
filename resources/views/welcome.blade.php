@@ -4,7 +4,7 @@
 
     <section class="u-background--primary u-white text-center c-hero">
         <div class="container">
-            <h1 class="u-fs--ultra">Screenshots as a Service</h1>
+            <h1>Screenshots as a Service</h1>
 
             <p class="lead">Create website screenshots through a simple API. Try it. It's free!</p>
         </div>
